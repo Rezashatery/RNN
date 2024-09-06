@@ -1,1 +1,0 @@
-this is the summary for RNN 
