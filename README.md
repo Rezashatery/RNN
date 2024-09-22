@@ -21,7 +21,7 @@ prototype different research ideas in a flexible way with minimal code.
 ## Transformers
 
 
-Transformers are deep neural networks that over the last years achieved state of the art performances in several tasks.
+Transformers are deep neural networks that over the last years achieved state of the art performances in several tasks and projects.
 
 Transformers replaces CNNs and RNNs with [self-attention](https://developers.google.com/machine-learning/glossary#self-attention). Self attention allows Transformers to easily transmit information across the input sequences.
 
