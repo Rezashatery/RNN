@@ -18,7 +18,7 @@ part of the `for` loop) with custom behavior, and use it with the generic
 `keras.layers.RNN` layer (the `for` loop itself). This allows you to quickly
 prototype different research ideas in a flexible way with minimal code.
 
-## Transformers
+## Transformers!!
 
 
 Transformers are deep neural networks that over the last years achieved state of the art performances in several tasks and projects.
